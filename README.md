@@ -8,6 +8,7 @@ compartilhamento dos meus projetos desenvolvidos* 📈
 
 **Contato**  ☎️
 
--_00001132764750sp@al.educacao.sp.gov.br_ 
-
--@ladrilhah
+- _00001132764750sp@al.educacao.sp.gov.br_ 
+- @ladrilhah
+- ![descrição do GIF]([link GIF do Tenor](https://media1.tenor.com/m/o6LprLqY5jIAAAAC/death-note-nom.gif))
+- Estou estudando na [Alura](https://www.alura.com.br)
